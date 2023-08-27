@@ -21,5 +21,5 @@ export const ContextProvider = (props) => {
 };
 
 
-// const {load}= useGlobalContext();  in app.js 
-//use function name as a wrapper in dex.js / main.js
+// const {load}= useGlobalContext();  in app.js import krta wa custom Hook  name must be bracket other wise it will give error ka export default ni 
+//use function name as a wrapper in dex.js / main.js  import krta wa function name must be bracket other wise it will give error ka export default ni 

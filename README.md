@@ -22,3 +22,4 @@ export const ContextProvider = (props) => {
 
 
 // const {load}= useGlobalContext();  in app.js 
+//use function name as a wrapper in dex.js / main.js
